@@ -45,8 +45,7 @@ You will learn how to **design**, **build**, **optimize**, **secure**, and **aut
 | 7️⃣  | Role-Based Access and Security          | Created Admin, Vendor, Delivery roles |
 | 8️⃣  | Scheduled Jobs with SQL Server Agent    | Automated notifications and reports |
 
-## 📊 Entity-Relationship Diagram (ERD)
-![alt text](https://github.com/ishwar-panchariya/zepto-clone-database-application-in-sql-server/blob/main/ER%20Diagram.png)
+
 
 ## 🚀 Features
 
@@ -59,10 +58,5 @@ You will learn how to **design**, **build**, **optimize**, **secure**, and **aut
 - Flexible Role-Based Access Control
 - Scheduled marketing notifications (Zomato style!)
 
-## 📩 Connect
 
-- YouTube Channel: https://www.youtube.com/@IshwarAcademy
-- LinkedIn: https://www.linkedin.com/in/ishwar-panchariya
-- GitHub: https://github.com/ishwar-panchariya
 
-# 🎉 Happy Learning and Building!
