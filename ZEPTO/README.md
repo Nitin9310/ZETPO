@@ -3,9 +3,7 @@
 
 ## 🛒 Overview
 
-This project builds a **real-world SQL Server Database** backend for a **Hyperlocal Delivery System** like **Zepto**, **Blinkit**, or **Dunzo**.
-
-You will learn how to **design**, **build**, **optimize**, **secure**, and **automate** a full production-like database from scratch — a perfect real-world project for your resume or interviews! 🚀
+This project builds a **real-world SQL Server Database** backend for a **Hyperlocal Delivery System** like **Zepto**.
 
 ## 🎯 Objectives
 
@@ -57,6 +55,7 @@ You will learn how to **design**, **build**, **optimize**, **secure**, and **aut
 - Automated daily sales summaries and alerts
 - Flexible Role-Based Access Control
 - Scheduled marketing notifications (Zomato style!)
+
 
 
 
